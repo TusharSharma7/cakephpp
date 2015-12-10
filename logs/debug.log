@@ -1,0 +1,666 @@
+2015-11-09 09:01:18 Notice: Notice (8): Undefined variable: articles in [C:\xampp\htdocs\cakephp\src\Template\Articles\index.ctp, line 16]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 16
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 826
+Cake\View\View::_render() - CORE\src\View\View.php, line 786
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 09:54:08 Notice: Notice (8): Undefined variable: order in [C:\xampp\htdocs\cakephp\src\Controller\ArticlesController.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\ArticlesController::home1() - APP/Controller\ArticlesController.php, line 141
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 09:54:10 Notice: Notice (8): Undefined variable: order in [C:\xampp\htdocs\cakephp\src\Controller\ArticlesController.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\ArticlesController::home1() - APP/Controller\ArticlesController.php, line 141
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 09:54:10 Notice: Notice (8): Undefined variable: order in [C:\xampp\htdocs\cakephp\src\Controller\ArticlesController.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\ArticlesController::home1() - APP/Controller\ArticlesController.php, line 141
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 10:26:02 Notice: Notice (8): Undefined variable: article in [C:\xampp\htdocs\cakephp\src\Template\Orders\home1.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\home1.ctp, line 8
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 826
+Cake\View\View::_render() - CORE\src\View\View.php, line 786
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 583
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 10:58:56 Notice: Notice (8): Undefined index: gajesh in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::stafflogin() - APP/Controller\OrdersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 11:02:02 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 11:02:02 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-09 11:02:02 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:20:43 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:20:43 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:20:43 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:41:17 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:41:17 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:41:17 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:45:28 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:45:28 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:45:28 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:46:20 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:46:20 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 19:46:20 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:44:27 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:44:27 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:44:27 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:52:18 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:52:18 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-27 23:52:18 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:05:51 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:05:51 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:05:51 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:06:42 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:06:42 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:06:42 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:07 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:07 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:07 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:16 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:16 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:24:16 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:10 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:10 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:10 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:20 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:20 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:31:20 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:32:33 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:32:33 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:32:33 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:45 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:45 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:45 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:52 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:52 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:34:52 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:16 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:16 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:16 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:25 Notice: Notice (8): Undefined index: province in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 80]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 80
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:25 Notice: Notice (8): Undefined index: size in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 99]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 99
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-28 00:39:25 Notice: Notice (8): Undefined index: crust in [C:\xampp\htdocs\cakephp\src\Controller\OrdersController.php, line 118]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::home1() - APP/Controller\OrdersController.php, line 118
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 412
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
